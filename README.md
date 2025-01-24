@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Sudarsan-13&style=for-the-badge)<br/>
 [![GitHub Streak](https://githubstreak.sudarsan13.me?user=Sudarsan-13)](https://git.io/streak-stats)<br/>
-[![GitHub Streak](https://github-readme-streak-stats-two-kappa.vercel.app?user=Sudarsan-13&theme=transparent)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sudarsan-13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarsan-13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
